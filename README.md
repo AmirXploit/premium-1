@@ -1,15 +1,15 @@
 # ✭ PREMIUM CRACK
-#### Made With ❤️ By Dapunta  
+#### Made With ❤️ By AmirXploit  
 ``` 
 Author :
-    • Dapunta Khurayra X
+    • Abdurahman amirX
   
 Team Project HEKER HEKER BIUTIPUL :
-    • Muhamad Rizal Fiansyah Id
+    • zarxploit
     • Angga Kurniawan
-    • Yayan XD
-    • Boy Hamzah
-    • Latip Harkat
+    • mars
+    • kubil tyz
+    • aing Amir
     • Zacky Tricker
     • Sutan Ubay
     • Rizky Dev
@@ -43,13 +43,13 @@ $ pip install requests
 $ pip install mechanize  
 $ pip install futures  
 $ rm -rf premium  
-$ git clone https://github.com/Dapunta/premium  
+$ git clone https://github.com/AmirXploit/Prem 
 ```
 #### ⇨  Run Script
 ```
-$ cd premium  
+$ cd otwheck  
 $ git pull  
-$ python premium.py  
+$ python prem.py  
 ```
 #### ⇨  Information
 ```
@@ -76,4 +76,4 @@ $ python premium.py
 [!] Dilarang Keras Memperjual Belikan File SC Ini
 ```
 #### ⇨  Screenshot
-![Premium Dapunta (1)](https://user-images.githubusercontent.com/76211798/128638195-04fcbc38-de70-4b74-8bb0-c9ccdbeea2a0.jpg)
+![AmirXploit (1)](https://user-images.githubusercontent.com/76211798/128638195-04fcbc38-de70-4b74-8bb0-c9ccdbeea2a0.jpg)
